@@ -50,11 +50,15 @@ jupyter notebook coupang_analysis_visualization.ipynb
 
 ### [⭐ **리뷰수 TOP 10**](https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/top10_reviews.png)
 
+<img width="3939" height="1645" alt="Image" src="https://github.com/user-attachments/assets/b4923e0a-e458-42bb-a98d-b1b973806efd" />
+
 ### [📈 **가성비 TOP 10**](https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/top10_value.png)
+
+<img width="3939" height="1646" alt="Image" src="https://github.com/user-attachments/assets/72c0fe6e-07fc-4a56-aed9-dba2401d72f5" />
 
 ### [🔍 **가격 vs 리뷰수 산점도**](https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/scatter_price_reviews.png)
 
-
+<img width="2145" height="1646" alt="Image" src="https://github.com/user-attachments/assets/852e8f5c-1873-47f8-90d3-4081e1264308" />
 
 
 ---

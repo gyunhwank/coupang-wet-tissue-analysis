@@ -43,17 +43,14 @@ jupyter notebook coupang_analysis_visualization.ipynb
 
 ## 📌 4. 결과 예시
 
-### 💰 가격 분포
-![가격 분포](https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/price_distribution.png)
+### [💰 **가격 분포**](https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/price_distribution.png)
 
-### ⭐ 리뷰수 TOP 10
-![리뷰수 TOP 10](https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/top10_reviews.png)
+### [⭐ **리뷰수 TOP 10**](https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/top10_reviews.png)
 
-### 📈 가성비 TOP 10
-![가성비 TOP 10](https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/top10_value.png)
+### [📈 **가성비 TOP 10**](https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/top10_value.png)
 
-### 🔍 가격 vs 리뷰수 산점도
-![가격 vs 리뷰수 산점도](https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/scatter_price_reviews.png)
+### [🔍 **가격 vs 리뷰수 산점도**](https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/scatter_price_reviews.png)
+
 
 
 

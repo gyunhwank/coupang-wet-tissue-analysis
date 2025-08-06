@@ -44,16 +44,17 @@ jupyter notebook coupang_analysis_visualization.ipynb
 ## 📌 4. 결과 예시
 
 ### 💰 가격 분포
-![가격 분포](images/price_distribution.png)
+<a href="images/price_distribution.png" target="_blank">📷 이미지 보기</a>
 
 ### ⭐ 리뷰수 TOP 10
-![리뷰수 TOP 10](images/top10_reviews.png)
+<a href="images/top10_reviews.png" target="_blank">📷 이미지 보기</a>
 
 ### 📈 가성비 TOP 10
-![가성비 TOP 10](images/top10_value.png)
+<a href="images/top10_value.png" target="_blank">📷 이미지 보기</a>
 
 ### 🔍 가격 vs 리뷰수 산점도
-![가격 vs 리뷰수 산점도](images/scatter_price_reviews.png)
+<a href="images/scatter_price_reviews.png" target="_blank">📷 이미지 보기</a>
+
 
 ---
 

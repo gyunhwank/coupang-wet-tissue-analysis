@@ -44,25 +44,24 @@ jupyter notebook coupang_analysis_visualization.ipynb
 ## 📌 4. 결과 예시
 
 ### 💰 가격 분포
-<a href="https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/price_distribution.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/price_distribution.png" width="500">
+<a href="https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/price_distribution_v2.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/price_distribution_v2.png" width="500">
 </a>
 
 ### ⭐ 리뷰수 TOP 10
-<a href="https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/top10_reviews.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/top10_reviews.png" width="500">
+<a href="https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/top10_reviews_v2.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/top10_reviews_v2.png" width="500">
 </a>
 
 ### 📈 가성비 TOP 10
-<a href="https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/top10_value.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/top10_value.png" width="500">
+<a href="https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/top10_value_v2.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/top10_value_v2.png" width="500">
 </a>
 
 ### 🔍 가격 vs 리뷰수 산점도
-<a href="https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/scatter_price_reviews.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/scatter_price_reviews.png" width="500">
+<a href="https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/scatter_price_reviews_v2.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/scatter_price_reviews_v2.png" width="500">
 </a>
-
 
 
 ---

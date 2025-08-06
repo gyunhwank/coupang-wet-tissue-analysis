@@ -42,7 +42,7 @@ jupyter notebook coupang_analysis_visualization.ipynb
 ---
 
 ## 📌 4. 결과 예시
-> 각 항목을 클릭하면 **원본 이미지를 새 탭에서 확인**할 수 있습니다.
+
 
 ### [💰 **가격 분포**](https://raw.githubusercontent.com/gyunhwank/coupang-wet-tissue-analysis/main/images/price_distribution.png)
 

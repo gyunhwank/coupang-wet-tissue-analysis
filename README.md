@@ -56,6 +56,7 @@ jupyter notebook coupang_analysis_visualization.ipynb
 <a href="images/scatter_price_reviews.png" target="_blank">📷 이미지 보기</a>
 
 
+
 ---
 
 ## 📌 5. 분석 인사이트
